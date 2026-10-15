@@ -38,12 +38,6 @@ bash build.sh
 
 This produces `spoke-and-spoon.html` and `test.html`. The file order is listed in `build.sh` and `src/build-order.json`. You need Node.js to run the syntax check in the build.
 
-## Project layout
-
-- `src/`: all game code, split by area (engine, audio, models, city, traffic, game, sports park, UI, main loop)
-- `app/`, `scripts/`, `build/`: desktop packaging
-- `steam/`: Steam achievement data
-
 ## Credits
 
 - Game by **Luke / Helios** (TikTok: OhHelioss)
