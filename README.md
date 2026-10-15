@@ -4,24 +4,28 @@ A cozy lofi 3D food-delivery game that runs in the browser. Ride your bike throu
 
 Everything in the game is generated in code by a custom 3D engine: no external models, textures or engines.
 
-**Version:** v2.20.1
+**Version:** v2.21.0
 
 ## Features
 
 - Open city to ride around, with traffic lights, buses, taxis, cyclists, police, fire engines and ambulances
+- Living streets: pedestrians cross on the walk signal, roadworks close a lane for the day, and the roads around the Sports Park jam up after a game
 - Day/night cycle and weather: rain, wind and heat, each changing how the ride feels
 - Deliveries from restaurants to homes, with tips, streaks, upgrades and gear
 - Fairground with rides, a haunted dark ride and a corn maze
-- Seasonal events, including Halloween with trick-or-treating
+- Street markets: the Neon Ave Night Market on weekend nights, with stalls that take orders
+- Seasonal events: Halloween with trick-or-treating and a 31 October finale (a parade and fireworks over the bay), and a late-November Harvest Festival with its own market, feast orders and warm drinks
 - Concert venue, arena and a sports park with live football, basketball and baseball games, crowds and scoreboards
 - Buy houses, unlock costumes, take photos in photo mode
+- Garage customisation: paint, rims, bell tones, headlight tints, basket styles, LED spoke lights and a cargo trailer for party-platter catering runs
+- Drop a pin anywhere on the map and the GPS takes you there
 - Gentle mode for a more relaxed game
 - Achievements, cross-device leaderboards and save transfer
 - Keyboard, gamepad and touch controls
 
 ## Play
 
-- **Browser:** open `index.html` from the zip (or the Releases page) in a modern browser.
+- **Browser:** open `index.html` from the itch.io zip (or the Releases page) in a modern browser.
 - **Desktop:** see the notes in `app/` and the `.bat` files in the project folder.
 
 ## Building from source
@@ -42,7 +46,7 @@ This produces `spoke-and-spoon.html` and `test.html`. The file order is listed i
 
 ## Credits
 
-- Game by Helios** (TikTok: OhHelioss)
+- Game by **Luke / Helios** (TikTok: OhHelioss)
 - Music: "Warm Porch Lights" and "Candy Wrapper Moon" by **Treblo**, used with permission
 - All other audio, models and art are generated procedurally in code
 
